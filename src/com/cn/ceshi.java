@@ -5,5 +5,6 @@ public class ceshi {
 		System.out.println("11haha412213");
 		System.out.println("haha42213");
 		System.out.println("haha42213");
+		System.out.println("202074");
 	}
 }
